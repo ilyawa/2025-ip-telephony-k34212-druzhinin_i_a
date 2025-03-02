@@ -1,14 +1,14 @@
-University: [ITMO University](https://itmo.ru/ru/)  
-Faculty: [FICT](https://fict.itmo.ru)  
-Course: [Network programming](https://github.com/itmo-ict-faculty/network-programming)  
-Year: 2024/2025  
-Group: K34212  
-Author: Druzhinin Ilya Antonovich  
-Lab: Lab1  
-Date of create: 26.09.2023  
-Date of finished: 27.09.2023  
+University: [ITMO University](https://itmo.ru/ru/)
+Faculty: [FICT](https://fict.itmo.ru)
+Course: [IP-telephony](https://github.com/itmo-ict-faculty/ip-telephony)
+Year: 2024/2025
+Group: K34212
+Author: Druzhinin Ilya Antonovich
+Lab: Lab3
+Date of create: 02.03.2025
+Date of finished: 02.03.2025 
 
-## Лабораторная работа №1 "Базовая настройка ip-телефонов в среде Сisco packet tracer"
+## Лабораторная работа №3 "Базовая настройка ip-телефонов в среде Сisco packet tracer"
 
 ## Описание
 
@@ -25,4 +25,3 @@ Date of finished: 27.09.2023
   
 ## Вывод
 Таким образом, была произведена базовая настройка ip-телефонов в среде Cisco packet tracer.
- 
