@@ -57,8 +57,8 @@ Date of finished: 02.03.2025
 <br></br> 
 
 Как результат работы, появилась связь между телефонами.  
-<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab1/images/Screen%20Shot%202025-03-06%20at%2012.57.20.png">  
-<br></br> 
+
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab1/images/Screen%20Shot%202025-03-06%20at%2012.57.20.png">
 <img width="200" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab1/images/Screen%20Shot%202025-03-06%20at%2012.57.36.png">  
 <br></br> 
 
