@@ -29,28 +29,61 @@ Date of finished: 09.03.2025
 Затем на маршрутизаторе были прописаны следующие настройки. 
 
 <img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2015.43.23.png">  
-<br></br>  
-<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2015.44.57.png">  
-<br></br>  
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2015.44.57.png">   
 <img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2015.47.07.png">  
-<br></br>  
 <img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2016.03.05.png">  
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2016.08.16.png">  
 <br></br>  
-<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2016.03.05.png">  
+
+Далее был настроен коммутатор.  
+
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2016.12.43.png">  
+<br></br>  
+
+Телефоны получили ip-адреса из пула dhcp.  
+
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2016.13.00.png">  
+<br></br>  
+
+Пример успешного звонка с телефона 2 на телефон 1 для проверки связи.  
+
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2016.13.35.png">  
 <br></br>  
 
 ### Часть 2
 
+Во второй части работы требуется собрать схему сети с ip-телефонами в качестве соединяющего звена между коммутатором и компьютерами.  
 
-Как можно видеть, каждый телефон получил ip-адрес.  
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-11%20at%2014.39.33.png">  
+<br></br>  
 
-<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab1/images/Screen%20Shot%202025-03-06%20at%2012.56.19.png">  
+Настроим коммутатор. Создадим vlan для ip-телефонии и vlan для компьютеров.
+
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2017.49.09.png">  
 <br></br> 
 
-Как результат работы, появилась связь между телефонами.  
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2018.04.05.png">  
+<br></br> 
 
-<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab1/images/Screen%20Shot%202025-03-06%20at%2012.57.20.png">
-<img width="200" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab1/images/Screen%20Shot%202025-03-06%20at%2012.57.36.png">  
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2018.04.17.png">  
+<br></br> 
+
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2019.39.31.png">  
+<br></br> 
+
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2019.39.46.png">  
+<br></br> 
+
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2019.41.09.png">  
+<br></br> 
+
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2019.41.47.png">  
+<br></br> 
+
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2019.41.56.png">  
+<br></br> 
+
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2019.42.22.png">  
 <br></br> 
 
 ## Вывод
