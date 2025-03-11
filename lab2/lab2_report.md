@@ -21,9 +21,23 @@ Date of finished: 09.03.2025
 ## Ход работы  
 ### Часть 1
 
-Схема сети была собрана по заданию:
+По заданию была собрана следующая схема сети.
 
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2015.42.45.png">  
+<br></br>   
 
+Затем на маршрутизаторе были прописаны следующие настройки. 
+
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2015.43.23.png">  
+<br></br>  
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2015.44.57.png">  
+<br></br>  
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2015.47.07.png">  
+<br></br>  
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2016.03.05.png">  
+<br></br>  
+<img width="600" src="https://github.com/ilyawa/2025-ip-telephony-k34212-druzhinin_i_a/blob/main/lab2/images/Screen%20Shot%202025-03-09%20at%2016.03.05.png">  
+<br></br>  
 
 ### Часть 2
 
